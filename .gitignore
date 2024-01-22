@@ -53,6 +53,8 @@
 /config_fips.gypi
 
 # === Rules for MSVS artifacts ===
+.env
+/.env
 Debug/
 Release/
 *.sln
